@@ -1,6 +1,3 @@
-
-
-<img src="https://img.itch.zone/aW1nLzExNTkyMTI3LnBuZw==/original/Yg9%2B3i.png" width="1500"/>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome.</h1>
 <p>
  I am Alexis, a developer hailing from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Rennes, France</b>. Currently, I am a student and also serve as a teaching assistant in my second year at Epitech.
@@ -10,9 +7,15 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DiaboloAB&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+<p align="center">
+
+  <img alt="Stars" src="https://img.shields.io/github/stars/DiaboloAB?style=flat-square&labelColor=343b41"/>
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DiaboloAB.DiaboloAB"/>
+  <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
+</p>
 
 
-
+------------
 
 <h3>Things I know.</h3>
 <p>
@@ -47,12 +50,5 @@
 </p>
 
 
-------------
-<p align="center">
-
-  <img alt="Stars" src="https://img.shields.io/github/stars/DiaboloAB?style=flat-square&labelColor=343b41"/>
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DiaboloAB.DiaboloAB"/>
-  <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
-</p>
 
 
