@@ -1,9 +1,9 @@
 
 
-<img src="https://img.itch.zone/aW1nLzExNTkyMTI3LnBuZw==/original/Yg9%2B3i.png" width="1000"/>
-
+<img src="https://img.itch.zone/aW1nLzExNTkyMTI3LnBuZw==/original/Yg9%2B3i.png" width="1500"/>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome.</h1>
 <p>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome. </br> I am Alexis, a developer hailing from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Rennes, France</b>. Currently, I am a student and also serve as a teaching assistant in my second year at Epitech."
+ I am Alexis, a developer hailing from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Rennes, France</b>. Currently, I am a student and also serve as a teaching assistant in my second year at Epitech.
 </p>
 
 
