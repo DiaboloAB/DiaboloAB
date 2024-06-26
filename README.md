@@ -35,11 +35,6 @@
   <img alt="fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
 </p>
 
-<h3>In the fog, I'll know soon.</h3>
-<p>
-  <img alt="rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="rust" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-</p>
 <h3>Find me on.</h3>
 <p>
   <a href="https://diabolobanane.itch.io/" target="_blank"><img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
