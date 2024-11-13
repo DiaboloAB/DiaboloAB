@@ -10,7 +10,6 @@
 <p align="center">
 
   <img alt="Stars" src="https://img.shields.io/github/stars/DiaboloAB?style=flat-square&labelColor=343b41"/>
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DiaboloAB.DiaboloAB"/>
   <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
 </p>
 
