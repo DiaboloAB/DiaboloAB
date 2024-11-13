@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome.</h1>
 <p>
  I am Alexis, a developer hailing from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Rennes, France</b>. Currently, I am a student and also serve as a teaching assistant in my second year at Epitech.
- One day i will be working at Riot Games :D.
 </p>
 
 
@@ -13,10 +12,6 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/DiaboloAB?style=flat-square&labelColor=343b41"/>
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DiaboloAB.DiaboloAB"/>
   <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
-</p>
-
-<p>
-June 2024: I started working on Caladan, a 2D and 3D GameEngine, for linux and windows.
 </p>
 
 ------------
