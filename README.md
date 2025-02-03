@@ -1,43 +1,44 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome.</h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey, I'm Alexis!
+</h1>
+
+### 👨‍💻 About Me
+I'm a passionate developer from 🇫🇷 **Rennes, France**, currently in my third year at **Epitech**. I also work as a **pedagogical assistant**, helping students dive deeper into programming.  
+
+I'm interested in **game development**, a huge **esports fan**, and I want to **push the gaming industry to its limits**.  
+That's why I love making games, but what I love even more is **low-level development**, where I constantly face challenges—and solving them is what drives me the most.  
+
+Currently, I'm **remaking Minecraft** in **C#**, which is helping me learn about **3D graphics, optimization, and game engine development**.  
+
+🔜 **Next challenge:** I'm planning to **learn Rust** soon!  
+
+Beyond coding, when I work on projects, I think about **every aspect**—from **architecture** to **security** and **deployment**. That's why I'm also passionate about **cybersecurity** and **DevOps**, and I want to deepen my knowledge in these fields.
+
+---
+
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C/C++" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/.net/512BD4" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 Find me on:
 <p>
- I am Alexis, a developer hailing from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Rennes, France</b>. Currently, I am a student and also serve as a teaching assistant in my second year at Epitech.
+  <a href="https://diaboloab.itch.io/" target="_blank">
+    <img width="35" height="35" alt="Itch.io" src="https://cdn.simpleicons.org/itch.io/FA5C5C"/>
+  </a>
+  <a href="https://leetcode.com/u/diaboloab/" target="_blank">
+    <img width="35" height="35" alt="LeetCode" src="https://cdn.simpleicons.org/leetcode/FFA116"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexisboitel/" target="_blank">linkedin</a>
 </p>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DiaboloAB&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<p align="center">
-
-  <img alt="Stars" src="https://img.shields.io/github/stars/DiaboloAB?style=flat-square&labelColor=343b41"/>
-  <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
-</p>
-
-------------
-
-<h3>Things I know.</h3>
-<p>
-  <img alt="unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img alt="cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
-</p>
-
-<h3>Find me on.</h3>
-<p>
-  <a href="https://diabolobanane.itch.io/" target="_blank"><img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/alexisboitel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a  target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
-
-
-
