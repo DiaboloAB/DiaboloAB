@@ -4,16 +4,22 @@
 </h1>
 
 ### 👨‍💻 About Me
-I'm a passionate developer from 🇫🇷 **Rennes, France**, currently in my third year at **Epitech**. I also work as a **pedagogical assistant**, helping students dive deeper into programming.  
+🇫🇷 Dev from Rennes, currently breaking and remaking things at Epitech. I love making games, but what I love even more is low-level wizardry—because what's fun without a challenge?
 
-I'm interested in **game development**, a huge **esports fan**, and I want to **push the gaming industry to its limits**.  
-That's why I love making games, but what I love even more is **low-level development**, where I constantly face challenges—and solving them is what drives me the most.  
+Right now, I'm remaking Minecraft in C# (because why not?), learning 3D graphics, optimization, and engine dev along the way.
 
-Currently, I'm **remaking Minecraft** in **C#**, which is helping me learn about **3D graphics, optimization, and game engine development**.  
+🔜 Next stop: Rust, because one does not simply avoid memory safety.
 
-🔜 **Next challenge:** I'm planning to **learn Rust** soon!  
+Also into cybersecurity and DevOps—basically, I enjoy making stuff, breaking stuff, and making sure others can't break my stuff.
 
-Beyond coding, when I work on projects, I think about **every aspect**—from **architecture** to **security** and **deployment**. That's why I'm also passionate about **cybersecurity** and **DevOps**, and I want to deepen my knowledge in these fields.
+<img
+                    src="https://leetcard.jacoblin.cool/diaboloab"
+                    alt="LeetCode Badge"
+                />
+                <img
+                    src="https://github-readme-stats.vercel.app/api?username=DiaboloAB&show_icons=true&theme=dark"
+                    alt="GitHub Stats"
+                />
 
 ---
 
