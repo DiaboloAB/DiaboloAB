@@ -4,13 +4,10 @@
 </h1>
 
 ### 👨‍💻 About Me
-🇫🇷 Dev from Rennes, currently breaking and remaking things at Epitech. I love making games, but what I love even more is low-level wizardry—because what's fun without a challenge?
-
-Right now, I'm remaking Minecraft in C# (because why not?), learning 3D graphics, optimization, and engine dev along the way.
-
-🔜 Next stop: Rust, because one does not simply avoid memory safety.
-
-Also into cybersecurity and DevOps—basically, I enjoy making stuff, breaking stuff, and making sure others can't break my stuff.
+🇫🇷 French student at Epitech - Rennes. I have tried many things from low level to web, including cybersecurity and AI.
+I love mathematics and problem-solving. I wish to pursue a career as a software engineer in the fields of AI, game engines, or graphics.
+Currently, I am working on a Minecraft copy to learn C#, optimization, architecture, and networking.
+The next step is to focus on Rust and try to contribute to projects I love.
 
 <img
                     src="https://leetcard.jacoblin.cool/diaboloab"
