@@ -3,9 +3,6 @@
   Hey, I'm Alexis!
 </h1>
 
-https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
 ### 🛠️ About Me 
 
 I am a low-level enthusiast focused on the intersection of **High-Performance Computing** and **Game Engine Architecture**.
