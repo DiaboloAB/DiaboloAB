@@ -1,47 +1,57 @@
-<h1 align="center">
+[<h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey, I'm Alexis!
-</h1>
+</h1>](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-### 👨‍💻 About Me
-🇫🇷 French student at Epitech - Rennes. I have tried many things from low level to web, including cybersecurity and AI.
-I love mathematics and problem-solving. I wish to pursue a career as a software engineer in the fields of AI, game engines, or graphics.
-Currently, I am working on a Minecraft copy to learn C#, optimization, architecture, and networking.
-The next step is to focus on Rust and try to contribute to projects I love.
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<img
-                    src="https://leetcard.jacoblin.cool/diaboloab"
-                    alt="LeetCode Badge"
-                />
-                <img
-                    src="https://github-readme-stats.vercel.app/api?username=DiaboloAB&show_icons=true&theme=dark"
-                    alt="GitHub Stats"
-                />
+### 🛠️ About Me 
+
+I am a low-level enthusiast focused on the intersection of **High-Performance Computing** and **Game Engine Architecture**.
+
+- 🔭 **Currently Building:** [Griffon](https://github.com/GriffonAV/GriffonAV), an antimalware toolkit built in rust. And building a game in rust with bevy.
+- ⚡ **Expertise:** C++, Rust, and Engine Developement.
+- 🎓 **Background:** Epitech (Systems-heavy methodology).
 
 ---
+### 🖥️ Technical Stack
 
-### 🚀 Tech Stack
-<p align="left">
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C/C++" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/.net/512BD4" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" width="40" height="40"/>
-</p>
+#### **Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+</div>
+
+#### **Graphics**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bevy" height="40" alt="bevy logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+    <img src="https://www.vulkan.org/user/themes/vulkan/images/logo/vulkan-logo.svg" height="40" alt="vulkan logo"  />
+    <img width="12" />
+	<img src="https://www.opengl.org/img/opengl_logo.jpg" height="40" alt="opengl logo"  />
+  
+</div>
+
+#### **Tools & Systems**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+</div>
 
 ---
-
-### 📌 Find me on:
-<p>
-  <a href="https://diaboloab.itch.io/" target="_blank">
-    <img width="35" height="35" alt="Itch.io" src="https://cdn.simpleicons.org/itch.io/FA5C5C"/>
-  </a>
-  <a href="https://leetcode.com/u/diaboloab/" target="_blank">
-    <img width="35" height="35" alt="LeetCode" src="https://cdn.simpleicons.org/leetcode/FFA116"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alexisboitel/" target="_blank">linkedin</a>
-</p>
+Find me on [itch.io](https://diaboloab.itch.io/), [linkedin](https://www.linkedin.com/in/alexisboitel/), [leetcode](https://leetcode.com/u/diaboloab/)
+Or take a look on my [website](https://www.boitelalexis.ovh/)
