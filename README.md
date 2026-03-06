@@ -1,8 +1,9 @@
-[<h1 align="center">
+<h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey, I'm Alexis!
-</h1>](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+</h1>
 
+https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 ### 🛠️ About Me 
